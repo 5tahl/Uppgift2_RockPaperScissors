@@ -96,7 +96,6 @@ public class RockPaperScissors {
                 } else {
                     break;
                 }
-
             } else if (numOfPlayers == 2) {
                 System.out.println("Can player 1 choose rock, paper or scissor.");
                 String playerOneInput = scanner.nextLine();
